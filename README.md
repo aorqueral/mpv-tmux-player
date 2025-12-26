@@ -17,9 +17,9 @@ Reproductor de música en terminal basado en mpv + tmux + fzf.
 - tmux
 
 ## Uso
-mp play <query>
-mp search <query>
-mp pause
+- mp play <query>
+- mp search <query>
+- mp pause
 
 ## Ideas
 - [ ] playlists
