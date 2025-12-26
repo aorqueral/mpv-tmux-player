@@ -1,0 +1,13 @@
+# cache
+.cache/
+*.jpg
+*.png
+
+# runtime
+/tmp/mpv.sock
+
+# editor / OS
+*.swp
+*.swo
+.DS_Store
+
